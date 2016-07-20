@@ -1,1 +1,1 @@
-print raw_input()[::-1]
+#!/usr/bin/env pythonprint (input()[::-1])
